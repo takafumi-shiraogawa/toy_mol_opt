@@ -1,6 +1,4 @@
-## A toy code that performs geometry optimization
-## of a diatomic molecule whose potential energy curve
-## is described by the Morse potential.
+## A toy code that performs geometry optimization of a diatomic molecule whose potential energy curve is described by the Morse potential.
 
 ### Model & Method
 The molecule is modeled based on the Moarse potential. All the

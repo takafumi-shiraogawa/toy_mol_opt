@@ -1,4 +1,4 @@
-## A toy code that performs geometry optimization of a diatomic molecule whose potential energy curve is described by the Morse potential.
+## A toy code that performs geometry optimization of a diatomic molecule whose potential energy curve is described by the Morse potential
 
 ### Model & Method
 The molecule is modeled based on the Moarse potential. All the
@@ -14,3 +14,4 @@ the following command:
 The result can be checked by calculating the potential energy
 curve:
 `$ python3 calc_PES.py`
+The results are saved in the files `test_Morse.out` and `calc_PEC.out`.
